@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://apix-hcqo.onrender.com/docs",
+  baseURL: "https://apix-af6m.vercel.app/docs",
   timeout: 30000,
 });
 
