@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "apix-hcqo.onrender.com",
+  baseURL: "https://apix-hcqo.onrender.com",
   timeout: 30000,
 });
 
